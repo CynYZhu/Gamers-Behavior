@@ -1,4 +1,4 @@
-# Understanding User Behavior
+# Gamer's Behavior
 
 Group project by Da Qi Ren, Frank Staszak and Cynthia Zhu
 
