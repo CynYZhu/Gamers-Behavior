@@ -1,5 +1,7 @@
 # Understanding User Behavior
 
+Group project by Da Qi Ren, Frank Staszak and Cynthia Zhu
+
 ## Introduction 
 An end-to-end data pipeline backed by containerized Kafka, Zookeeper, Spark, HDFS, and Presto. The pipeline processed, transformed, stored, and performed analytics on events captured during gameplay.
 
